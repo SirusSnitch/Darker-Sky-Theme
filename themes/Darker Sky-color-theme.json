@@ -1,6 +1,19 @@
 {
 	"name": "Darker Sky Theme",
+	"displayName":"Darker Sky",
+	"description": "Created the theme for my needs you can use it either way",
+	"version":"1.0",
+	"publisher":"SirusSnitch",
 	"type": "dark",
+	"keywords": [
+		"theme",
+		"dark",
+		"custom",
+		"visual studio code",
+		"vs code",
+		"coding",
+		"editor"
+	],
 	"colors": {
 		"activityBar.background": "#0e0d1a",
 		"activityBar.border": "#5966cc50",
@@ -227,7 +240,9 @@
 		{
 			"scope": [
 				"punctuation.definition.decorator",
-				"entity.name.function.decorator"
+				"entity.name.function.decorator",
+				"punctuation.definition.keyword.css",
+				"keyword.control.at-rule.font-face.css",
 			],
 			"settings": {
 				"foreground": "#FFB114"

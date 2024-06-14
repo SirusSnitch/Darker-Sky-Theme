@@ -1,16 +1,31 @@
-# darker-sky README
+# Darker Sky Theme
 
-## Working with Markdown
+**Darker Sky Theme** is a custom dark theme for Visual Studio Code tailored to suit various coding needs. Created with personal preferences in mind, this theme offers a dark and elegant color scheme designed to enhance your coding experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Dark Background:** Provides a soothing and visually comfortable environment for extended coding sessions.
+- **Customizable:** Tailor-made for personal preferences, but adaptable to different coding styles and workflows.
+- **Optimized for Readability:** Thoughtfully selected colors and contrasts ensure code readability and clarity.
+- **Versatile Usage:** Suitable for a wide range of programming languages and development tasks.
+- **Minimalist Design:** Focuses on essential elements while maintaining a visually appealing interface.
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open **Visual Studio Code**.
+2. Go to the **Extensions** view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
+3. Search for "Darker Sky Theme".
+4. Click **Install**.
+5. Once installed, go to **Preferences** > **Color Theme** and select "Darker Sky" from the list.
 
-**Enjoy!**
+## Feedback
+
+Your feedback matters! If you have any comments, suggestions, or feature requests, feel free to reach out or leave a review.
+
+## Screenshots
+
+![Editor Screenshot](screenshots/Html.png)
+*Example of the Darker Sky Theme in action.*
+
+
+Enhance your coding experience with the **Darker Sky Theme**!
