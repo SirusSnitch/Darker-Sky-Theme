@@ -1,8 +1,23 @@
 {
   "name": "darker-sky",
-  "displayName": "Darker Sky",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Darker Sky Theme",
+  "description": "Created the theme for my needs you can use it either way",
+  "version": "1.0.0",
+  "publisher": "SirusSnitch",
+  "type": "dark",
+  "keywords": [
+		"theme",
+		"dark",
+		"custom",
+		"visual studio code",
+		"vs code",
+		"coding",
+		"editor"
+	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SirusSnitch/Darker-Sky-Theme.git"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },

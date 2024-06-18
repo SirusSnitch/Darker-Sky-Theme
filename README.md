@@ -29,3 +29,8 @@ Your feedback matters! If you have any comments, suggestions, or feature request
 
 
 Enhance your coding experience with the **Darker Sky Theme**!
+
+## License
+
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE) file for details.
+
