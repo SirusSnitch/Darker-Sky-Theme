@@ -32,5 +32,5 @@ Enhance your coding experience with the **Darker Sky Theme**!
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. See the [LICENSE](./License) file for details.
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](License.txt) file for details.
 
