@@ -2,9 +2,9 @@
   "name": "darker-sky",
   "displayName": "Darker Sky Theme",
   "description": "Created the theme for my needs you can use it either way",
-  "version": "1.0.0",
-  "publisher": "SirusSnitch",
-  "type": "dark",
+  "version": "1.0.1",
+  "publisher": "Sirus Snitch",
+  "icon": "Icon.jpg",
   "keywords": [
 		"theme",
 		"dark",
@@ -12,7 +12,9 @@
 		"visual studio code",
 		"vs code",
 		"coding",
-		"editor"
+		"editor",
+    "dark theme",
+    "Nebula"
 	],
   "repository": {
     "type": "git",
